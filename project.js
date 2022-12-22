@@ -1,6 +1,5 @@
 document.write("Hello World");
-// without function
-// 
+
 function mathMatics(Num1,Num2,Num3){
     document. write("</br> The Addition:"+(Num1+Num2+Num3));
     document. write("</br> The subtraction:"+(Num1-Num2-Num3));
@@ -13,3 +12,4 @@ let N2=Number(prompt("Enter the number2"));
 let N3=Number(prompt("Enter the number3"));
 
 mathMatics(N1,N2,N3)
+
